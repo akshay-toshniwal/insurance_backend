@@ -10,5 +10,12 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akshay-toshniwal/insurance_backend"
   }
 }
